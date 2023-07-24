@@ -1,6 +1,6 @@
 # Formula1.50 - Python Script for Formula 1 Information
 
-This Python script provides information related to Formula 1 races, driver standings, and constructor standings using the Ergast API. The script presents a menu with various options, allowing the user to view different types of Formula 1 data.
+This is my final project to complete the CS50P Course. Formula1.50 is a Python script that provides information related to Formula 1 races, driver standings, and constructor standings using the Ergast API. The script presents a menu with various options, allowing the user to view different types of Formula 1 data.
 
 ## Prerequisites
 
